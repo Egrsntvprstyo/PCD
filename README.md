@@ -1,4 +1,7 @@
 # PCD
+Nama: Edgar Sentavito Prasetyo
+NIM: F55122033
+
 Edge Detection
 ![edge_detection_results](https://github.com/Egrsntvprstyo/PCD/assets/112400967/3bf4f6d1-4570-4781-bad2-6f68bef981dc)
 
